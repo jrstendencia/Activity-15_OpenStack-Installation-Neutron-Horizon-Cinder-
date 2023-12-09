@@ -1,0 +1,3 @@
+- name: Installing dashboard
+  yum:
+    name: openstack-dashboard
